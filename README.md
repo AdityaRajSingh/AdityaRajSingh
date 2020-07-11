@@ -10,7 +10,7 @@
 
 
 
-**Say Hi on Twitter([@adi4adityaraj](https://twitter.com/Vinit_Shahdeo))!** :heart: 💬
+**Say Hi on Twitter([@adi4adityaraj](https://twitter.com/adi4adityaraj))!** :heart: 💬
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/adi4adityaraj?style=social)](https://twitter.com/adi4adityaraj)
 
