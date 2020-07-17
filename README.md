@@ -7,8 +7,9 @@
 
 
 
+<sup><kbd>***[Click here](https://adityarajsingh.github.io)***</kbd> *to visit my website.</sup>* <br>
 
-<sup>**[Click here](https://adityarajsingh.github.io)** *to view my projects.</sup>*
+
 
 To know more about me or to connect with me:
 <br>
