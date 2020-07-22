@@ -1,4 +1,10 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋🏻</h3>
+<p align="center">
+  <a href="https://adityarajsingh.github.io/" target="_blank">
+    <img alt="Image" src="./Intro.gif" width="50%"/>
+  </a>
+</p>
+
 **Glad to see you here!** :star_struck: <br><br>
  The green dots on my [**GitHub Profile**](https://github.com/AdityaRajSingh?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how does [Facebook](https://www.facebook.com/adi4adityaraj/) works back in 2014 to contributing my skills to different projects in various Hackathons and Internships. Outside of GitHub,you can find me in the **basketball** :basketball: court or capturing some splendid moments through my camera :camera: and sharing them on [Instagram](https://www.instagram.com/adityarajsingh.ars/)! 
 
@@ -7,7 +13,7 @@
 
 
 
-<sup><kbd>***[Click here](https://adityarajsingh.github.io)***</kbd> *to visit my website.</sup>* <br>
+<sup><kbd>***[Click here](https://adityarajsingh.github.io)***</kbd> to visit my website.</sup> <br>
 
 
 
