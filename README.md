@@ -1,7 +1,7 @@
 <h3 align="center">Hi there 👋🏻</h3>
 <p align="center">
   <a href="https://adityarajsingh.github.io/" target="_blank">
-    <img alt="Image" src="./Intro.gif" width="50%"/>
+    <img alt="Image" src="https://github.com/AdityaRajSingh/AdityaRajSingh/blob/master/Intro.gif?raw=true" width="50%"/>
   </a>
 </p>
 
